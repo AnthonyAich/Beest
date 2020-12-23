@@ -1,0 +1,15 @@
+body {
+
+    /*lettertype veraneren*/
+    font-family: Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    /*achtergrond verranderen*/
+    background-color: cornsilk;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin: 10px;
+}
